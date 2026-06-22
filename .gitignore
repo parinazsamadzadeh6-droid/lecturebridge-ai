@@ -1,3 +1,6 @@
 .env
 .venv
 *.m4a
+output_*.txt
+output_*.json
+output_*.md

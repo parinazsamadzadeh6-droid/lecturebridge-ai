@@ -4,3 +4,4 @@
 output_*.txt
 output_*.json
 output_*.md
+.DS_Store
